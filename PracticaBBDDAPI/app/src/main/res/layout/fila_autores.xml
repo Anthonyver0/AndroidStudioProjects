@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="30dp"
+    android:layout_margin="16dp"
+    android:layout_gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardUseCompatPadding="true"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+
+
+
+    <TextView
+        android:id="@+id/tvAutor"
+        android:layout_width="match_parent"
+        android:layout_height="138dp"
+        android:paddingTop="40dp"
+        android:text="@string/nombre_autor"
+        android:paddingLeft="20sp"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

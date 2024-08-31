@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Repeticion</string>
+    <string name="User">Ponga el nombre\n</string>
+    <string name="TextoContra">Ponga la contraseña\n</string>
+    <string name="Error">Error ponga bien el nombre o contraseña\n</string>
+    <string name="Button">Loguearse\n</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejercicio02Thony</string>
+    <string name="etiqueta1">Introduzca un numero:</string>
+    <string name="Login">Introduzca su Usuario:</string>
+    <string name="TextoLogi">Nombre de Usuario:</string>
+    <string name="TextoContra">Contraseña:</string>
+    <string name="passw">Contraseña</string>
+    <string name="Error">Error, mire el nombre o la contraseña</string>
+    <string name="Button">Login</string>
+</resources>

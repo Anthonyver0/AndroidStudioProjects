@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticaBBDDAPI</string>
+    <string name="nombre_autor">Nombre del autor</string>
+    <string name="libro">Nombre Libro\n</string>
+    <string name="naci">Nacimiento</string>
+    <string name="nombre_libro">Libro</string>
+</resources>

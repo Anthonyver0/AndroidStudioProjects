@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="etiquetanum1">Di un numero</string>
+    <string name="resultado">Resultado</string>
+    <string name="sum">sumar\n</string>
+    <string name="res">restar</string>
+    <string name="mul">multi\n</string>
+    <string name="div">div</string>
+</resources>

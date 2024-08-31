@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PracticaExamenBBDD</string>
+    <string name="Nombre">Nombre\n\n</string>
+    <string name="correo">correo\n</string>
+    <string name="borrar">Borrado\n</string>
+</resources>
